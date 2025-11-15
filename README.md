@@ -24,6 +24,7 @@
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" width="40px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
+<img src="./power-bi-icon.svg" width="40px" align="left" />
           
 <br><br>
 <h3>Project Management and CRM</h3>
