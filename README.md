@@ -1,10 +1,12 @@
-## Hello There!👋 I'm David
+<h1>Hello There!👋 I'm David</h1>
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 <p>I'm a Software Engineering graduate from Delta 360, eager to continue my academic journey at the <b>Open Hellenic University</b> in the Computer Science program. I'm driven by a need to understand how things work, something that had me going through many hobbies initially and studies like Astrophysics at the <b>Sofia University "St. Kliment Ohridski"</b> a several years back, and currently focusing on the software development.</p>
 
 <p>I have developed a background on full-stack web development through professional, academic and self-driven experiences and projects.</p>
+<br>
 
+<h2>Tech Tools</h2>
 <h3>Languages and Frameworks</h3>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -30,13 +32,33 @@
 <h3>Project Management and CRM</h3>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 <img align="left" width="40px" src="https://www.svgrepo.com/show/353887/hubspot.svg" />
+<img align="left" width="40px" src="https://avatars.githubusercontent.com/u/45451151?s=48&v=4" />
+<img align="left" width="40px" src="https://avatars.githubusercontent.com/u/93662?s=48&v=4" />
 
 <br><br>
 <h3>Other</h3>
+<img align="left" width="40px" src="https://avatars.githubusercontent.com/u/133744619?s=48&v=4" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-          
-          
+<br><br><br><br>
+
+<h2>Education</h2>
+<ul>
+<p> 💻 <strong>Computer Science</strong> - Open Hellenic University (2026)</p>
+<p> ⚙️ <strong>Software Engineering</strong> - Delta 360 (2022-2024)</p>
+<p> 🔭 <strong>Astrophysics</strong> - Sofia University "St. Kliment Ohridski" (2020-2022)</p>
+</ul>
+<br>
+
+<h2>Get In Touch</h2>
+<ol>
+          <li>
+                    <a href="https://www.linkedin.com/in/david-vasilev-488295279/">LinkedIn</a>
+          </li>
+          <li>
+                    <a href="mailto:davidvasilev@proton.me">davidvasilev@proton.me</a>
+          </li>
+</ol>
