@@ -1,7 +1,7 @@
 <h1>Hello There!👋 I'm David</h1>
 
 <h2>About Me</h2>
-<p>I'm a Software Engineering graduate from Delta 360, eager to continue my academic journey at the <b>Open Hellenic University</b> in the Computer Science program. I'm driven by a need to understand how things work, something that had me going through many hobbies initially and studies like Astrophysics at the <b>Sofia University "St. Kliment Ohridski"</b> a several years back, and currently focusing on the software development.</p>
+<p>I'm a Software Engineering graduate from Delta 360, eager to continue my academic journey at the <b>Open Hellenic University</b> in the Computer Science program. I'm driven by a need to understand how things work, something that had me going through many hobbies initially and studies later on like Astrophysics at the <b>Sofia University "St. Kliment Ohridski"</b> a several years back, and currently focusing on the software development.</p>
 
 <p>I have developed a background on full-stack web development through professional, academic and self-driven experiences and projects.</p>
 <br>
@@ -50,6 +50,14 @@
 <p> 💻 <strong>Computer Science</strong> - Open Hellenic University (2026)</p>
 <p> ⚙️ <strong>Software Engineering</strong> - Delta 360 (2022-2024)</p>
 <p> 🔭 <strong>Astrophysics</strong> - Sofia University "St. Kliment Ohridski" (2020-2022)</p>
+</ul>
+<br>
+
+<h2>Outside of work - Hobbies</h2>
+<ul>
+<p><strong>Photography</strong> -> <a href="https://www.behance.net/davevasilev">Behance</a></p>
+<p><strong>Video/Photo editing and manipulation</strong> with Photoshop/ After Effects/ Premiere Pro</p>
+<p><strong>3D Modeling</strong> with Blender</p>
 </ul>
 <br>
 
