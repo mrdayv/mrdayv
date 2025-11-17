@@ -55,9 +55,9 @@
 
 <h2>Outside of work - Hobbies</h2>
 <ul>
-<p><strong>Photography</strong> -> <a href="https://www.behance.net/davevasilev">Behance</a></p>
-<p><strong>Video/Photo editing and manipulation</strong> with Photoshop/ After Effects/ Premiere Pro</p>
-<p><strong>3D Modeling</strong> with Blender</p>
+<p> 📷 <strong>Photography</strong> -> <a href="https://www.behance.net/davevasilev">Behance</a></p>
+<p> 🎬 <strong>Video/Photo editing and manipulation</strong> with Photoshop/ After Effects/ Premiere Pro</p>
+<p> 🖌️ <strong>3D Modeling</strong> with Blender</p>
 </ul>
 <br>
 
