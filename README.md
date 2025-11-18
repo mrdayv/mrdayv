@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <p>I'm a Software Engineering graduate from Delta 360, eager to continue my academic journey at the <strong>Open Hellenic University</strong> in the Computer Science program. I'm driven by a need to understand how things work, something that led me through many hobbies early on and later into studies like Astrophysics at <strong>Sofia University "St. Kliment Ohridski"</strong> several years back, before ultimately focusing on software development.</p>
 
-<p>I've been using a PC since the age of 4 and have always enjoyed troubleshooting both software and hardware issues. I got into hardware when building my first PC, which sparked an interest in understanding electronics. This curiosity led me to study physics, and in 2020 I got admitted into the Astrophysics department at Sofia University, where I was invited the following year to participate in a student research program at <strong>CERN</strong>.</p>
+<p>I've been using a PC since the age of 4 and have always enjoyed troubleshooting both software and hardware issues. I got into hardware when building my first PC, which sparked an interest in understanding electronics. This curiosity led me to study physics, and in 2020 I was admitted to the Astrophysics department at Sofia University, where I was invited the following year to participate in a student research program at <strong>CERN</strong>.</p>
 
 <p>I have developed a background on full-stack web development through professional experience, academic studies and self-driven projects.</p>
 <br>
@@ -60,7 +60,8 @@
 <p> 📷 <strong>Photography</strong> -> <a href="https://www.behance.net/davevasilev">Behance</a></p>
 <p> 🎬 <strong>Video/Photo editing and manipulation</strong> with Photoshop/ After Effects/ Premiere Pro</p>
 <p> 🖌️ <strong>3D Modeling</strong> with Blender</p>
-<p>Blog</p>
+<p> ✒️ <strong>Blog</strong> writing</p>
+<p> 🧑‍🍳 <strong>Cooking</strong></p>
 </ul>
 <br>
 
