@@ -26,6 +26,7 @@
 <h3>Developer Tools</h3>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
