@@ -7,11 +7,6 @@
 
 <br>
 
-<p align="center">
-  <i>"You may not be betting on the same circumstances, you may not know what's going to happen, but you can bet on yourself."</i><br>
-  <b>— ThePrimeagen</b>
-</p>
-
 <br>
 
 <h2>Tech Tools</h2>
