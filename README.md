@@ -73,7 +73,7 @@
 <h2>Get In Touch</h2>
 <ol>
           <li>
-                    <a href="https://www.linkedin.com/in/david-vasilev-488295279/">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/davidvasilev/">LinkedIn</a>
           </li>
           <li>
                     <a href="mailto:davidvasilev@proton.me">davidvasilev@proton.me</a>
