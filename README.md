@@ -54,7 +54,7 @@
 
 <h2>Education</h2>
 <ul>
-<p> 💻 <strong>Computer Science</strong> - Open Hellenic University (2026)</p>
+<p> 💻 <strong>Computer Science</strong> - Hellenic Open University (2026)</p>
 <p> ⚙️ <strong>Software Engineering</strong> - Delta 360 (2022-2024)</p>
 <p> 🔭 <strong>Astrophysics</strong> - Sofia University "St. Kliment Ohridski" (2020-2022)</p>
 </ul>
