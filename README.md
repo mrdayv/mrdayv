@@ -1,7 +1,7 @@
 <h1>Hello There!👋 I'm David</h1>
 
 <h2>About Me</h2>
-<p>A Software Engineering graduate from Delta 360, about to continue my academic journey at the <strong>Open Hellenic University</strong> in the Computer Science program. Studied Astrophysics at <strong>Sofia University "St. Kliment Ohridski"</strong> several years back, before ultimately focusing on software development.</p>
+<p>A Software Engineering graduate from Delta 360, about to continue my academic journey at the <strong>Hellenic Open University</strong> in the Computer Science program. Studied Astrophysics at <strong>Sofia University "St. Kliment Ohridski"</strong> several years back, before ultimately focusing on software development.</p>
 
 <p>I enjoy troubleshooting complex software and hardware issues and building full-stack applications through academic work, professional experience, and self-driven projects.</p>
 
