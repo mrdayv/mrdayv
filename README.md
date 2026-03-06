@@ -87,4 +87,7 @@
           <li>
                     <a href="mailto:davidvasilev@proton.me">davidvasilev@proton.me</a>
           </li>
+          <li>
+                    <a href="https://davidvasilev-nu.vercel.app/">Portfolio</a>
+          </li>
 </ol>
